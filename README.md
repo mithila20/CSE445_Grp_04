@@ -24,5 +24,8 @@ This project requires Python 3.x and uses the Kaggle API for dataset download. E
    ```bash
    pip install kaggle librosa numpy pandas matplotlib seaborn scipy ipython
 
+3. **Python Packages from requirments file**  
+   ```bash
+   pip install -r requirements.txt
 
    
