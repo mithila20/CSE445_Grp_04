@@ -11,7 +11,7 @@ This project focuses on analyzing audio files for signal-to-noise ratio (SNR) an
 
 ## Installation
 
-This project requires Python 3.10 and uses the Kaggle API for dataset download. Ensure you have a Kaggle account and access to your API key.
+This project requires Python 3.10 and uses the Kaggle API for dataset download.Ensure you have a Kaggle account and access to your API key.
 
 ### Prerequisites
 
